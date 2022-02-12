@@ -1,0 +1,63 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+.logo {
+    width: 23%;  
+    padding: 1%; 
+}
+.imgLogo{
+    width:50px;
+    float: right;
+}
+
+nav {
+    width: 73%;
+    padding: 1%;
+    display: inline-block;
+    float: right;
+}
+ul {
+    width: 50%;
+    margin-left: auto;
+    list-style-type: none;
+    display: inline-block;
+    float: right;
+}
+
+ul li{
+    float:left;
+    padding: 15px;
+}
+.heroImg {
+    background-image: url("../images/File_020.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    justify-content: left;
+    align-items: center; 
+    margin: 0 auto;
+    width: 70%;
+    height: 600px;
+}
+.painting {
+    width: 70%;
+    /* margin-top: 100px; */
+}
+.intro {
+    width:60%;
+   margin-left:100px;
+   font-size: 60px;
+   text-align: left;
+
+}
+.footer {
+    background-color: beige;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    
+}
